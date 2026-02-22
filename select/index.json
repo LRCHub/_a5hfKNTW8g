@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "フレンズ",
+  "base_artist": "Rebecca",
+  "createdAt": "2026-02-22T17:33:36.499796Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "フレンズ",
+      "artist": "菅野よう子",
+      "has_synced": false,
+      "path": "select/01_フレンズ_菅野よう子.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ウィズ・ア・リトル・ヘルプ・フロム・マイ・フレンズ",
+      "artist": "Rajaton",
+      "has_synced": false,
+      "path": "select/02_ウィズ・ア・リトル・ヘルプ・フロム・マイ・フレンズ_Rajaton.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "フレンズ",
+      "artist": "REBECCA",
+      "has_synced": true,
+      "path": "select/03_フレンズ_REBECCA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "フレンズ",
+      "artist": "中野愛子",
+      "has_synced": false,
+      "path": "select/04_フレンズ_中野愛子.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "フレンズ - サバカン ver.",
+      "artist": "Ai Otsuka",
+      "has_synced": false,
+      "path": "select/05_フレンズ_-_サバカン_ver._Ai_Otsuka.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "フレンズ",
+      "artist": "wacci",
+      "has_synced": true,
+      "path": "select/06_フレンズ_wacci.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "フレンズ",
+      "artist": "REBECCA",
+      "has_synced": true,
+      "path": "select/07_フレンズ_REBECCA.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "フレンズ",
+      "artist": "ステファニー",
+      "has_synced": true,
+      "path": "select/08_フレンズ_ステファニー.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ハッピー･ハッピー･フレンズ",
+      "artist": "わたてん☆5",
+      "has_synced": true,
+      "path": "select/09_ハッピー・ハッピー・フレンズ_わたてん☆5.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ハッピー･ハッピー･フレンズ -Instrumental-",
+      "artist": "Wataten5",
+      "has_synced": true,
+      "path": "select/10_ハッピー・ハッピー・フレンズ_-Instrumental-_Wataten5.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "フレンズ",
+      "artist": "Miki Imai",
+      "has_synced": true,
+      "path": "select/11_フレンズ_Miki_Imai.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "フレンズ",
+      "artist": "今井美樹",
+      "has_synced": true,
+      "path": "select/12_フレンズ_今井美樹.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "フレンズ",
+      "artist": "Ai Otsuka",
+      "has_synced": true,
+      "path": "select/13_フレンズ_Ai_Otsuka.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "フレンズ",
+      "artist": "大塚愛",
+      "has_synced": true,
+      "path": "select/14_フレンズ_大塚愛.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "フレンズ",
+      "artist": "レベッカ",
+      "has_synced": true,
+      "path": "select/15_フレンズ_レベッカ.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "フレンズ (remixed edition)",
+      "artist": "Rebecca",
+      "has_synced": true,
+      "path": "select/16_フレンズ_(remixed_edition)_Rebecca.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フレンズ",
+      "artist": "REBECCA",
+      "has_synced": false,
+      "path": "select/pl_01_フレンズ_REBECCA.txt"
+    }
+  ]
+}
